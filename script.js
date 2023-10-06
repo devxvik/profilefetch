@@ -57,7 +57,7 @@ function success() {
             "public gists : " +
             data.public_gists +
             "<br>" +
-            '<p style="margin-top:10px; font-size: 15px; font-style: italic; font-weight: 400; color: #9a9a9a;" >Made with 🖤 by <a style="text-decoration: none;" href="https://www.instagram.com/the.vivek.kushwaha/">Vivek</a></p>' +
+            '<p style="margin-top:10px; font-size: 15px; font-style: italic; font-weight: 400; color: #9a9a9a;" >Made with 🖤 by <a style="text-decoration: none;" href="https://www.instagram.com/the.vivekkushwaha/">Vivek</a></p>' +
             '<div onclick="fetchagain()" class="buttonn fetchagain">Fetch Again</div>';
         } else {
           var DATASuser =
